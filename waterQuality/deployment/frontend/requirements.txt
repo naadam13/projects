@@ -1,0 +1,11 @@
+streamlit
+numpy
+pandas
+scipy
+stats
+matplotlib
+Image
+seaborn
+requests
+joblib
+imblearn
